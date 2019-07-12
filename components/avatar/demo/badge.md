@@ -18,7 +18,7 @@ import { Avatar, Badge } from 'antd';
 
 ReactDOM.render(
   <div>
-    <span style={{ marginRight: 24 }}>
+    <span style={{ marginRight: 23 }}>
       <Badge count={1}>
         <Avatar shape="square" icon="user" />
       </Badge>
